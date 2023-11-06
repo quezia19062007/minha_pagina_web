@@ -35,7 +35,13 @@ p7{
     color: black;
 }
 
+
 #titulo1{text-align:center;
     font-size: 70px;
     color: black;}
+
+#titulo2{text-align:center;
+        font-size: 70px;
+        color: black;}
+    
 strong{color:#001515}
